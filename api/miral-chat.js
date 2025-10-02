@@ -49,6 +49,28 @@ Collections:
 - Men: /collections/men
 - Women: /collections/women
 - Clearance: /collections/clearance
+- Women Bracelets: /collections/women-bracelet-collection
+- Women Gold Bracelets: /collections/women-gold-bracelet-collection
+- Women Diamond Bracelets: /collections/women-diamond-bracelet-collection
+- Women Monaco Bracelets: /collections/women-monaco-bracelet
+- Women Color Stones Bracelets: /collections/color-stone-bracelet-collection
+- Women Sterling Silver Bracelets: /collections/women-sterling-silver-bracelet-collection
+- Women Anklet Bracelets: /collections/women-ankle-bracelets
+- Women Necklace Chain: /collections/women-necklace-chain-collection
+- Women Chain: /collections/women-curb-link-chain-collection
+- Women Gold Necklace: /collections/women-gold-necklace-collection
+- Women Diamond Necklace: /collections/women-diamond-necklace-collection
+- Women Color Stones Necklace: /collections/color-stones-necklaces-collection
+- Women Sterling Silver Necklace: /collections/women-sterling-silver-necklace-collection
+- Women Gold Pendant: /collections/women-gold-pendant
+- Women Diamond Pendant: /collections/women-diamond-pendant-collection
+- Women Color Stones Pendant: /collections/color-stones-pendant-collection
+- Women Rings: /collections/women-ring-collection
+- Women Gold Rings: /collections/women-gold-ring-collection
+- Women Diamond Rings: /collections/women-diamond-ring-collection
+- Women Color Stones Rings: /collections/color-stone-ring-collection
+- Women Bridal Rings: /collections/women-bridal-ring-collection
+
 
 Rules:
 - Don’t invent stock/prices
